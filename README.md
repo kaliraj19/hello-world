@@ -1,2 +1,2 @@
 # hello-world
-This is first git repo
+This is first training git project
